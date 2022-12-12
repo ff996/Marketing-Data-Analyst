@@ -1,4 +1,5 @@
-I created a similar dashboard as the following one to present team insights to our clients. 
+I created a dashboard similar to the visualization below to present team insights to our clients.
+
 ![Tableau Superstore RFM Analysis Blog](https://user-images.githubusercontent.com/59645662/207128301-c8b6dc54-8522-445f-a49b-294ea83848a7.png)
 
 
